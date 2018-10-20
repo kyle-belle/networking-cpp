@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1539994089 source:c:\users\stuppzzzz\documents\winsock-client\main.cpp
+	<stdio.h>
+	<conio.h>
+	<vector>
+	<winsock.h>
+
